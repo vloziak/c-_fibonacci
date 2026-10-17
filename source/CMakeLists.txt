@@ -3,3 +3,4 @@ project(Elevator LANGUAGES CXX)
 
 add_subdirectory(libraries)
 add_subdirectory(application)
+add_subdirectory(task4)
